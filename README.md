@@ -1,4 +1,4 @@
-# CONFIGOOO
+# CPPCONFIG
 <dev align="center">
     <h5> A very simpel C++ config languge </h5>
 </dev>
