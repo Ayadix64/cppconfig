@@ -17,9 +17,10 @@ you can then use it as well
 ``` cpp
 
 readConf(config_file_name, config_name,string_to_read_to); // this return 1 if it never found the config file or it dosnt fond the config
-writeConf(config_file_name, config_name, config_data);     // the return 1 if four some reasen it didnt fonde the config file and 
-IsTherConfig(config_file_name, config_name);               // this returns true if it finde that config at 
+writeConf(config_file_name, config_name, config_data);     // the return 1 if four some reasen it didnt fonde the config file and trai to creat it znd it faile
+IsTherConfig(config_file_name, config_name);               // this returns true if it finde that config at config file and false if never found it or the file dosnt exest
 ```
+
 
 
 soo, how was your day?
