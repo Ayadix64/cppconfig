@@ -1,4 +1,10 @@
 # CONFIGOOO
+<dev align="center">
+    <h5> A very simpel C++ config languge </h5>
+</dev>
+<ln>
+
+
 this is my *very* **very** simpel config languge that i used in my Chat.Locale project,
 
 is a header only; nicely;
